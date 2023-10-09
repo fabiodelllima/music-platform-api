@@ -1,5 +1,5 @@
 {
-  "name": "m4-s3-projeto-semanal",
+  "name": "music-platform-api",
   "version": "1.0.0",
   "scripts": {
     "dev": "tsnd --cls --rs --ignore-watch node_modules src/server.ts",
